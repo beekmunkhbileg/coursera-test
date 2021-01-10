@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My fav NBA teams</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 
-You can use the [editor on GitHub](https://github.com/beekmunkhbileg/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
+<body>
+<h1>MY FAV NBA TEAMS</h1>
+<div class="row" id="bigcontainer">
+	<div class="col-lg-4 col-md-6" id="box1">
+		<section>
+			<h2 id="lal">Lakers</h2>
+			<p id="lakers">The Los Angeles Lakers are an American professional basketball team based in Los Angeles. The Lakers compete in the National Basketball Association as a member of the league's Western Conference Pacific</p>
+		</section>
+	</div>
+	<div class="col-lg-4 col-md-6" id="box2">
+		<section>
+			<h2 id="nop">Pelicans</h2>
+			<p id="pelicans">The New Orleans Pelicans are an American professional basketball team based in New Orleans. The Pelicans compete in the National Basketball Association as a member of the league's Western Conference Southwest Division. The team plays its home games in the Smoothie King Center</p>
+		</section>
+	</div>
+	<div class="col-lg-4 col-md-12" id="box3">
+		<section>
+			<h2 id="ps">Phoenix</h2>
+			<p id="phoenix">The Phoenix Suns are an American professional basketball team based in Phoenix, Arizona. The Suns compete in the National Basketball Association, as a member of the league's Western Conference Pacific Division. The Suns are the only team in their division not based in California</p>
+		</section>
+	</div>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beekmunkhbileg/coursera-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
